@@ -1,0 +1,15 @@
+C:\Users\Loopypew\source\repos\ClickerGame\ClickerGame\obj\Debug\ClickerGame.csproj.AssemblyReference.cache
+C:\Users\Loopypew\source\repos\ClickerGame\ClickerGame\obj\Debug\ClickerGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Loopypew\source\repos\ClickerGame\ClickerGame\obj\Debug\ClickerGame.Properties.Resources.resources
+C:\Users\Loopypew\source\repos\ClickerGame\ClickerGame\obj\Debug\ClickerGame.csproj.GenerateResource.cache
+C:\Users\Loopypew\source\repos\ClickerGame\ClickerGame\obj\Debug\ClickerGame.csproj.CoreCompileInputs.cache
+C:\Users\Loopypew\source\repos\ClickerGame\ClickerGame\obj\Debug\ClickerGame.form1.resources
+C:\Users\Loopypew\source\repos\ClickerGame\ClickerGame\bin\Debug\Lovecraft Clicker.exe.config
+C:\Users\Loopypew\source\repos\ClickerGame\ClickerGame\bin\Debug\Lovecraft Clicker.exe.manifest
+C:\Users\Loopypew\source\repos\ClickerGame\ClickerGame\bin\Debug\Lovecraft Clicker.application
+C:\Users\Loopypew\source\repos\ClickerGame\ClickerGame\bin\Debug\Lovecraft Clicker.exe
+C:\Users\Loopypew\source\repos\ClickerGame\ClickerGame\bin\Debug\Lovecraft Clicker.pdb
+C:\Users\Loopypew\source\repos\ClickerGame\ClickerGame\obj\Debug\Lovecraft Clicker.exe.manifest
+C:\Users\Loopypew\source\repos\ClickerGame\ClickerGame\obj\Debug\Lovecraft Clicker.application
+C:\Users\Loopypew\source\repos\ClickerGame\ClickerGame\obj\Debug\Lovecraft Clicker.exe
+C:\Users\Loopypew\source\repos\ClickerGame\ClickerGame\obj\Debug\Lovecraft Clicker.pdb
